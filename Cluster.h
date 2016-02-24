@@ -6,6 +6,7 @@
 namespace Clustering {
 
     typedef struct LNode *LNodePtr;
+    const int swag=2; 
 
     struct LNode {
 
