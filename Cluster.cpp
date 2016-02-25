@@ -7,3 +7,6 @@
 //
 
 #include "Cluster.h"
+
+
+int gitTest; 
